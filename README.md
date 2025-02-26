@@ -18,7 +18,7 @@ This project is a **learning experience** focused on **systems programming**, **
 
 Clone this repository:  
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/my_ls.git
+git clone https://github.com/Cukowski/My_Ls_Tutorial.git
 cd my_ls
 ```
 
